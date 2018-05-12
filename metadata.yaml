@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '35130'
     url: http://www.gutenberg.org/2009/agents/35130
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31295#Journal-de-math-matics-pures-et-appliqu-es--13-Ou-recueil-mensuel-de-m-moires-sur-les-diverse_
 gutenberg_bookshelf:
 - Mathematics
 - FR Sciences et Techniques
