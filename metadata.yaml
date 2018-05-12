@@ -1,0 +1,35 @@
+_repo: Journal-de-math-matics-pures-et-appliqu-es--13-Ou-recueil-mensuel-de-m-moires-sur-les-diverse__31295
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Liouville, Joseph
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '35130'
+    url: http://www.gutenberg.org/2009/agents/35130
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- FR Sciences et Techniques
+gutenberg_issued: '2010-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31295'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Mathematics -- Periodicals'
+title: "Journal de mathématics pures et appliquées\r\nOu, recueil mensuel de mémoires\
+  \ sur les diverses parties des mathématiques, Tome deuxième, année 1837"
+url: http://www.gutenberg.org/ebooks/31295
